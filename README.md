@@ -1,4 +1,8 @@
 # 🌫️ AirLens — Air Quality Intelligence Dashboard for Indian Cities
+**AI/ML Project | Pranay Karthik | 25BCE10818**
+
+---
+
 
 > A machine learning-powered dashboard that forecasts AQI, identifies pollution drivers, and clusters Indian cities by their pollution profiles — built with Prophet, Random Forest, K-Means, and Streamlit.
 
